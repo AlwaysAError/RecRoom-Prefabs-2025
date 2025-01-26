@@ -1,0 +1,243 @@
+
+Prefab list by https://github.com/Glaches
+
+--Backpack--
+Streamer Camera [HandheldStreamerCamera]
+Maker Pen [MakerPen]
+Feedback Tool [FeedbackTool]
+Share Camera [ShareCamera]
+Clothing Customizer [ClothingCustomizerTool]
+Clothing CUstomizer Markers [ClothingCustomizerMarkerSet]
+--Bosses--
+TheRiseOfJumbotron Jumbotron [quest_scifi_jumbotronbossenemy] [arena_jumbotron_mainframe]
+GoldenTrophy Unnamed [quest_goblin_rotatingboss]
+TheIsleOfLostSkulls Ghost Beard [quest_pirate_bossenemy]
+CrimsonCauldron Bog Monster [quest_goblin_bogmonster] 
+CrimsonCauldron Unknown [quest_goblin_witchboss]
+Crescendo Dracula [Quest_Dracula1_DraculaBoss]
+Crescendo Bat [Quest_Dracula1_MiniBossRangedBatEnemy]
+Crescendo Melee [Quest_Dracula1_MiniBossBoneMeleeEnemy]
+Crescendo Musket [Quest_Dracula1_MiniBossGround_Musket]
+Crescendo Dog [Quest_Dracula1_MiniBossLungingWolfEnemy]
+--AIs--
+Golden Trophy
+	Melee Goblin [Quest_Goblin_BasicGroundMeleeEnemy]
+	Flying Ranged Imp [Quest_Goblin_BasicGroundRangedEnemy]
+	Charge Knight Goblin [Quest_Goblin_KnightChargeEnemy]
+	Elite Melee Goblin [Quest_Goblin_EliteGroundMeleeEnemy]
+	Elite Flying Ranged Imp [quest_goblin_eliteflyingrangedenemy]
+	Spin Knight Goblin [Quest_Goblin_KnightSpinEnemy]
+Crimson Cauldron
+	Witch [Quest_Goblin_VolleyRangedEnemy]
+Isle of Lost Skulls
+	Skeleton Cutlass [Quest_Pirate_BasicGroundMeleeEnemy]
+	Skeleton Bottle [Quest_Pirate_Ground_Bottle_ThrownEnemy]
+	Skeleton Rum Jug [Quest_Pirate_Ground_Explosive_ThrownEnemy]
+	Skeleton Flintlock [Quest_Pirate_Ground_RangedEnemy]
+	Skeleton Maid [Quest_Pirate_Ground_GibbetEnemy]
+	Cannoneer [quest_pirate_cannoneerenemy]
+Jumbotron
+	Ranged Tread Bot [Quest_SciFi_BasicGroundRangedEnemy]
+	Flying Ranged Bot [Quest_SciFi_BasicFlyingRangedEnemy]
+	Elite Ranged Tread Bot [Quest_SciFi_EliteGroundRangedEnemy]
+	Elite Flying Ranged Bot [Quest_SciFi_EliteFlyingRangedEnemy]
+	Assassin Bot [Quest_SciFi_KnightAssassinEnemy]
+	Mouse Bot [quest_scifi_tinygroundexplosiveenemy]
+Crescendo
+	Pumpkin Head Skeleton [Quest_Dracula1_BasicBoneMeleeEnemy] 
+	Musket Skeleton [Quest_Dracula1_Ground_MusketEnemy]
+	Wolfrider [Quest_Dracula1_BasicChargingWolfEnemy] [Quest_Dracula1_BasicLungingWolfEnemy]
+	Firebat [Quest_Dracula1_BasicRangedBatEnemy]
+	Dive Bat [Quest_Dracula1_BasicLungingBatEnemy]
+--Paint Weapons--
+Pistol [PaintballGun]
+	Burst Rifle [PaintballAssaultRifle]
+	Paint Thrower [Paintball_PaintThrower]
+	Sniper [PaintballRifleScoped]
+	Shotgun [PaintballShotgun]
+	Grenade Launcher [PaintballGrenadeLauncher]
+	Proximity Mine [ProximityMine]
+	Grenade [RecRoyale_Grenade]
+	Shield [PaintballShield]
+--Laser Weapons--
+Pistol [Arena_Pistol]
+	Burst Rifle [Arena_AutomaticGun]
+	Cannon [Arena_PowerWeapon_BeamGun]
+	Railgun [Arena_RailGun]
+	Shotgun [Arena_Shotgun]
+	Rocket Launcher [Arena_RocketLauncher]
+	Grenade [SciFi_Grenade]
+--GT Weapons--
+Sword [QuestSword]
+	Shield [QuestShield]
+	Bow [Longbow]
+	Crossbow [Crossbow]
+-- Crimson Cauldron--
+	Magic Wand [Quest_Goblin_Wand]
+	Double Health [Quest_Goblin_FirePotion]
+	Ham Sword [questmeatsword]
+-- Isles--
+Bar Stool [Quest_Pirate1_BarStool]
+	Beer Bottle [Quest_Pirate1_BeerBottle]
+	Breakable Bone [Quest_Pirate1_BreakableBone]
+	Breakable Fish [Quest_Pirate1_BreakableFish]
+	Coconut Bomb [Quest_Pirate1_CoconutBomb]
+	Cutlass [Quest_Pirate1_Cutlass]
+	Flintlock [Quest_Pirate1_Flintlock]
+	Frying Pan [Quest_Pirate1_FryingPan]
+	Mug [Quest_Pirate1_Mug]
+	Oar [Quest_Pirate1_Oar]
+	Plate [Quest_Pirate1_Plate]
+	Push Broom [Quest_Pirate1_PushBroom]
+	Rum Jug [Quest_Pirate1_RumJug]
+	Torch [Quest_Pirate1_Torch]
+--Crescendo--
+	Rake [Quest_Dracula1_Rake]
+	Hunter's Crossbow [Crossbow_Hunter]
+	Whip [Whip]
+	Shovel [Quest_Dracula1_Shovel]
+	Pitchfork [Quest_Dracula1_PitchFork]
+	Flintlock [Quest_Dracula1_Flintlock]
+	Blunderbuss [Quest_Dracula1_BlunderBuss]
+--Rec Royale--
+Glider [Glider]
+	Backpack [recroyale_backpack]
+	Map [RecRoyale_PlayerMap]
+	Playing Zone [RecRoyale_GameplayZone]
+	Health Potion [RecRoyale_HealthPotion]
+	Shield Potion [RecRoyale_ShieldPotion]
+	Winner Sign [RecRoyale_Frontier_WinnerSign]
+	Winner Door [RecRoyale_WinnerDoor]
+-- Disc Golf--
+Disc [DiscGolfDisc] [DiscGolfGlowingDisc]
+--Paddleball--
+	Paddleball Ball [PaddleballBall]
+--Paintball
+Flag [FlagTool]
+--MTM--
+Bonky Costume [STNMonsterCostumeDummy]
+-- Unused (possible ban with CE)
+Green Screen Tool [GreenScreen_tool]
+Laser Tag EMP [arena_emp]
+Tutorial Camera [tutorialcamera] [tutorialcamera png]
+Rake [Quest_Dracula1_Rake]
+Remote Video Player [Sandbox_Remote_Video_Player]
+Screenshare [DesktopScreenSharingTool]
+Friendotron [Sandbox_Friendotron]
+Bronze Moderator Trophy [Trophy_Moderator] Bronze
+Silver Moderator Trophy [Trophy_Moderator] Silver
+Gold Moderator Trophy [Trophy_Moderator]
+Sword Trophy [Trophy_Oscar]
+Bronze Costume Trophy [Trophy_CostumeDummy] Bronze
+Silver Costume Trophy [Trophy_CostumeDummy] Silver
+Gold Costume Trophy [Trophy_CostumeDummy]
+Gold Maker Pen Trophy [Trophy_MakerPen]
+Silver Maker Pen Trophy [Trophy_MakerPen] Silver
+Bronze Maker Pen Trophy [Trophy_MakerPen] Bronze
+RecTV Trophy [Trophy_Clapperboard]
+-- Big stuff--
+Maker Room Wall [Sandbox_Wall]
+Maker Room Window [Sandbox_Wall_Window]
+Maker Room Floor [Sandbox_Floor]
+Stunt Runner Ceiling [StuntRunner_Ceiling]
+Stunt Runner Floor [StuntRunner_Floor]
+Stunt Runner Wall [StuntRunner_Wall_Long]
+Stunt Runner Jumbotron [StuntRunnerJumbotron_Makerpen]
+Charades Stage [Charades_Stage]
+Charades Room [Charades_InkSpace_MainHull_Sandbox] Variant
+Boulder [Quest_Boulder]
+-- Mic Variants
+Microphone [Microphone]
+Conference Microphone [Microphone_Conference]
+-- RC Car Set --
+RC Car Set [RCCarSandboxSet]
+-- useful managers --
+Dracula Manager [Quest_Dracula1_Manager] (Blacks out screens)
+Orientation Manager [OrientationManager] (Removes watch, adds spam tp, breaks screenmodes)
+Dodgeball Manager [DodgeballManager] Server wide destruction
+
+-- FOODS (important)
+
+[RootBeer_HackolaConsumableTool] - Full rootbeer hackola pack
+[RootBeer_PixelPop_ConsumableTool] - Full rootbeer pixelpop pack
+Bubbly [BubblyConsumableTool]
+[Cake87FlavorConsumableTool],
+    [CakeChocolateConsumableTool],
+    [CakeRedVelvetConsumableTool],
+    [CakeYellowConsumableTool],
+    [CandyAppleConsumableTool],
+    [CheesePizzaConsumableTool],
+    [ChocolateVarietyConsumableTool],
+	(Donuts are lag central)
+    [Donuts_Assorted_ConsumableTool],
+    [Donuts_Frosted_ConsumableTool],
+    [Donuts_Glazed_ConsumableTool],
+[HawaiianPizzaConsumableTool],
+    [LatteConsumableTool],
+    [PepperoniPizzaConsumableTool],
+    [Popcorn_Butter_ConsumableTool],
+    [Popcorn_Chocolate_ConsumableTool],
+    [Popcorn_Flaming_ConsumableTool],
+    [Pretzel_Salted_ConsumableTool],
+    [RedApplesConsumableTool],
+    [RootBeerConsumableTool],
+    [SupremePizzaConsumableTool],
+    [SushiConsumableTool],
+    [HairDyePotionConsumableTool_Blue],
+    [HairDyePotionConsumableTool_Cyan],
+    [HairDyePotionConsumableTool_DarkBlue],
+    [HairDyePotionConsumableTool_DarkPink],
+    [HairDyePotionConsumableTool_DarkPurple],
+    [HairDyePotionConsumableTool_DarkRed],
+    [HairDyePotionConsumableTool_Green],
+    [HairDyePotionConsumableTool_Orange],
+    [HairDyePotionConsumableTool_PastelBlue],
+    [HairDyePotionConsumableTool_PastelCyan],
+    [HairDyePotionConsumableTool_PastelGreen],
+    [HairDyePotionConsumableTool_PastelOrange],
+    [HairDyePotionConsumableTool_PastelPink],
+    [HairDyePotionConsumableTool_PastelPurple],
+    [HairDyePotionConsumableTool_PastelRed],
+    [HairDyePotionConsumableTool_PastelTeal],
+    [HairDyePotionConsumableTool_PastelYellow],
+    [HairDyePotionConsumableTool_Pink],
+    [HairDyePotionConsumableTool_Purple],
+    [HairDyePotionConsumableTool_Red],
+    [HairDyePotionConsumableTool_Teal],
+    [HairDyePotionConsumableTool_Yellow],
+    [HairDyePotionConsumable_Blue],
+    [HairDyePotionConsumable_Cyan],
+    [HairDyePotionConsumable_DarkBlue],
+    [HairDyePotionConsumable_DarkPink],
+    [HairDyePotionConsumable_DarkPurple],
+    [HairDyePotionConsumable_DarkRed],
+    [HairDyePotionConsumable_Green],
+    [HairDyePotionConsumable_Orange],
+    [HairDyePotionConsumable_PastelBlue],
+    [HairDyePotionConsumable_PastelCyan],
+    [HairDyePotionConsumable_PastelGreen],
+    [HairDyePotionConsumable_PastelOrange],
+    [HairDyePotionConsumable_PastelPink],
+    [HairDyePotionConsumable_PastelPurple],
+    [HairDyePotionConsumable_PastelRed],
+    [HairDyePotionConsumable_PastelTeal],
+    [HairDyePotionConsumable_PastelYellow],
+    [HairDyePotionConsumable_Pink],
+    [HairDyePotionConsumable_Purple],
+    [HairDyePotionConsumable_Red],
+    [HairDyePotionConsumable_Teal],
+    [HairDyePotionConsumable_Yellow],
+    [Dracula1PotionConsumableTool],
+    [Goblin1PotionConsumableTool],
+    [Goblin2PotionConsumableTool],
+    [HandPotionConsumable_Dracula1],
+    [HandPotionConsumable_Goblin1],
+    [HandPotionConsumable_Goblin2],
+    [HandPotionConsumable_Pirate1],
+    [HandPotionConsumable_SciFi1],
+    [Pirate1PotionConsumableTool],
+    [SciFiPotionConsumableTool],
+    [EgoPotionConsumableTool],
+    [HeadPotionConsumable_DKMode],
+(CRASHES SCREENMODE PLAYERS)
+[Consumables_Sparkler)
