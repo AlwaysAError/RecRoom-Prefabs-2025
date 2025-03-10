@@ -241,3 +241,11 @@ Bubbly [BubblyConsumableTool]
     [HeadPotionConsumable_DKMode],
 (CRASHES SCREENMODE PLAYERS)
 [Consumables_Sparkler)
+
+New found prefabs
+[BubblyConsumable_Premium_Tool]
+[BubblyConsumable_Creator_Tool]
+[RootBeer_PixelPop_ConsumableTool]
+[RootBeer_HackolaConsumableTool]
+[Sparklers_ConsumableTool]
+[CouponConsumableTool]
